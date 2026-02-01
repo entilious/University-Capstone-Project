@@ -7,8 +7,8 @@
 
 ## Overview
 
-This repository contains the prototype/proof-of-concept implementation of **Carbon Emissions Tracker** as a university capstone project focused on **data preprocessing, machine learning model training and evaluation, and a lightweight web application** for demonstration purposes.
-The project aims to employ machine learning models to predict future carbon emissions and LLMs to generate actionable insights that can be used to reduce emissions **while** ensuring operational efficacy.
+This repository contains the prototype/proof-of-concept implementation of **Carbon Emissions Tracker** as a university capstone project focused on **data preprocessing, machine learning model training and evaluation, and a lightweight web application** for demonstration purposes.\n
+The project aims to employ machine learning models to predict future carbon emissions and LLMs to generate actionable insights that can be used to reduce emissions **while** ensuring operational efficacy.\n\nDeatiled information can be found within the Jupyter Notebooks themselves.
 
 The project follows a standard applied machine learning workflow:
 1. Raw emissions data preprocessing 
