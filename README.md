@@ -1,4 +1,3 @@
-```md
 # University Capstone Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -131,4 +130,4 @@ The Streamlit app provides an interactive interface to explore the results.
 * The web app is intended for demonstration purposes only
 
 ```
-```
+
