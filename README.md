@@ -54,16 +54,6 @@ The goal is educational and exploratory rather than production deployment.
 - Built using Streamlit
 - Provides a simple interface to visualize results and interact with the trained models
 - Intended for demonstration, not large-scale deployment
-
----
-
-## Why This Project Is Useful
-
-- Demonstrates an end-to-end machine learning pipeline
-- Separates data preparation from model logic
-- Shows how experimental notebooks can be integrated into a usable application
-- Suitable as a learning reference or portfolio project
-
 ---
 
 ## Getting Started
